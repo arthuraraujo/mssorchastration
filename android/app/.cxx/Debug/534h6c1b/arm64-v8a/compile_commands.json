@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/mssorchestration/android/app/.cxx/Debug/534h6c1b/arm64-v8a",
+  "command": "C:\\Users\\conta\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/conta/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/conta/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmssorchestration_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\mssorchestration.dir\\mssorchestration.cpp.o -c D:\\mssorchestration\\android\\app\\src\\main\\cpp\\mssorchestration.cpp",
+  "file": "D:\\mssorchestration\\android\\app\\src\\main\\cpp\\mssorchestration.cpp"
+}
+]
