@@ -30,9 +30,11 @@ public class MssOrchestrationModule extends ReactContextBaseJavaModule {
 
     @ReactMethod
     public void authenticateUser(String identifier, String password) {
-        Log.d("User Identifier", "PAssword: " + identifier
+        Log.d("User Identifier", "Password: " + identifier
                 + " and location: " + password);
-        UserAuthenticationCallback.UserAuthentication(identifier,password)
+
+        new UserAuthenticationCallback(identifier,password)
+
 
     }
 
